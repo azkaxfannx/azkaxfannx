@@ -1,6 +1,6 @@
 # Azka Syams Maulana
 
-Full-stack engineer in Cilacap, Indonesia. I build software that businesses run on every day: an omnichannel customer service platform, payment and biller gateways, SaaS for accounting, rentals, schools and boarding houses, and venue systems with live AI cameras and Android apps.
+Full-stack engineer in Cilacap, Indonesia. I build software that businesses run on every day: an omnichannel customer service platform, payment and biller gateways, accounting and boarding-house management, school operations, and venue systems with live AI cameras and Android apps.
 
 [Portfolio](https://azkasyams.xyz) · [Resume (PDF)](https://azkasyams.xyz/Azka%20Syams%20Maulana%20-%20Resume.pdf) · [LinkedIn](https://www.linkedin.com/in/azka-maulana/) · azkamaulana6789@gmail.com
 
